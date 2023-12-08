@@ -1,0 +1,2 @@
+// The datasets Analyzed for this study can be found in the Carnegie Mellon University StatLib: https://lib.stat.cmu.edu/datasets/1993.expo/
+// The data is found at https://lib.stat.cmu.edu/datasets/1993.expo/cereal
